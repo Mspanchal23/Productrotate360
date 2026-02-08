@@ -1,0 +1,11 @@
+node_modules/
+.next/
+.env
+.env.local
+backend/uploads/videos/*
+backend/uploads/frames/*
+!backend/uploads/videos/.gitkeep
+!backend/uploads/frames/.gitkeep
+*.log
+.DS_Store
+dist/
